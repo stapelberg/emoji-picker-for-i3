@@ -1,0 +1,15 @@
+This project includes data derived from:
+
+1. Unicode Emoji Data (emoji-test.txt)
+   Copyright (c) 2024 Unicode, Inc.
+   https://unicode.org/Public/emoji/16.0/emoji-test.txt
+   Licensed under the Unicode License Agreement
+   https://www.unicode.org/license.txt
+
+2. Unicode CLDR Annotations
+   Copyright (c) 1991-2024 Unicode, Inc.
+   https://github.com/unicode-org/cldr-json (version 46.0.0)
+   Licensed under the Unicode License Agreement
+   https://www.unicode.org/license.txt
+
+The processed emoji data is embedded in internal/picker/_data/emoji.txt.

@@ -1,0 +1,193 @@
+# Custom search keywords for emoji-picker-for-i3
+# Format: emoji keyword1,keyword2,keyword3
+# These are merged with CLDR annotations to improve search results.
+# Grow this file based on search log analysis.
+
+# Reactions
+👍 ok,yes,approve,agreed,lgtm,+1,like,good,nice,correct,thumb,ack
+👎 no,bad,dislike,disagree,nope,-1,reject
+👏 bravo,clap,applause,well done,kudos
+🙏 please,thanks,pray,hope,grateful,thank you,ty
+🤝 deal,agreement,handshake,partnership
+
+# Emotions: happiness and joy
+😀 happy,smile,grin,cheerful
+😃 happy,excited,joyful
+😄 happy,laughing,joyful
+😁 beaming,happy,excited,radiant
+😆 happy,laughing,amused
+🙂 fine,ok,polite
+🤩 thrilled,ecstatic,amazed,fanboy,fangirl
+🥳 celebrate,woohoo,thrilled,ecstatic,pumped
+😊 happy,smile,glad,pleased,blush,content,warm
+☺️ content,warm,pleased,happy,cozy
+😇 innocent,pure,sweet,angelic,blessed
+
+# Emotions: love and affection
+😍 love,heart eyes,crush,adore
+😘 kiss,love,mwah,xoxo
+🥰 love,hearts,adore,sweet,tender,affection,cuddle
+🤗 warm,welcome,affection,comfort,cuddle,supportive
+😚 affection,tender,sweet
+😙 affection,sweet
+🫶 heart hands,love,care,grateful,appreciation,support
+
+# Emotions: laughter
+😂 lol,funny,haha,laugh,crying laughing,hilarious,rofl
+🤣 lol,rofl,haha,dying,hilarious
+😹 lol,funny,haha
+
+# Emotions: embarrassment and shame
+😳 cringe,mortified,flustered,shocked,OMG
+😅 embarrassed,oops,relief,phew,awkward,yikes
+🫠 cringe,flustered,dying inside,overwhelmed
+🫢 embarrassed,oops,shocked,caught
+🫣 embarrassed,shy,cringe,peeking
+🙈 oops,hide,embarrassed,shy,cringe
+🙊 oops,embarrassed,said too much,slip
+😬 cringe,awkward,yikes,uncomfortable,tense
+
+# Emotions: pride and accomplishment
+😤 proud,determined,resolve,pumped,triumphant
+🥲 proud,bittersweet,touched,moved
+💪 strong,muscle,power,flex,strength,workout,proud,accomplished
+🏆 trophy,winner,champion,award,first place,proud
+🥇 winner,first,gold,champion,proud
+
+# Emotions: gratitude and relief
+😌 content,peaceful,serene,calm,grateful,zen
+🥲 grateful,touched,moved,emotional
+😮‍💨 relief,exhausted,finally,phew,sigh
+
+# Emotions: sadness and grief
+😢 sad,cry,tear,upset,unhappy,miserable
+😭 crying,sad,bawling,sobbing,devastated,heartbroken
+😞 sad,disappointed,down,bummed,let down
+😔 sad,pensive,gloomy,blue,melancholy
+😿 sad,cry,upset,heartbroken
+💔 broken heart,sad,heartbreak,grief,loss,devastated
+😥 disappointed,relieved,complicated
+😩 exhausted,fed up,miserable,overwhelmed
+😫 exhausted,drained,miserable
+
+# Emotions: anger and frustration
+😡 furious,rage,livid,angry,irate
+😠 angry,frustrated,mad,annoyed,irritated
+🤬 angry,furious,cursing,swearing,pissed,rage
+💢 angry,rage,fury,snap
+👿 angry,rage,evil,furious
+
+# Emotions: anxiety and worry
+😰 worried,panic,stressed,dread,anxious
+😨 afraid,terrified,dread,anxious,scared
+😟 concerned,uneasy,worried,troubled
+😓 stressed,worried,dreading,exhausted
+🥺 pleading,desperate,puppy eyes,vulnerable
+
+# Emotions: fear and shock
+😱 terrified,horrified,shocked,scary,nightmare
+😲 shocked,amazed,astonished,stunned
+🫨 stunned,startled,shook,overwhelmed
+🤯 mind blown,shocked,amazed,wow,unbelievable
+😮 surprised,shocked,whoa,stunned
+
+# Emotions: confusion and disbelief
+🤨 skeptical,suspicious,doubtful,really,sus
+😵‍💫 disoriented,overwhelmed,dizzy,confused
+🫤 uncertain,meh,disappointed,doubtful
+😕 confused,puzzled,unsure,perplexed
+🤔 thinking,hmm,wonder,maybe,pondering,consider
+
+# Emotions: disgust
+🤢 disgusted,gross,nausea,ew,revolting,sick
+🤮 disgusted,vomit,gross,ew,revolting,terrible
+😖 uncomfortable,distraught,disgusted
+
+# Emotions: boredom and apathy
+😐 bored,indifferent,meh,unimpressed,blank
+😑 bored,over it,done,unimpressed
+🥱 tired,uninterested,sleepy,dull
+🫥 depressed,invisible,empty,numb,withdrawn
+😒 unamused,bored,annoyed,unimpressed,meh
+
+# Emotions: mischief and smugness
+😈 mischief,naughty,devious,playful,scheming,troublemaker
+😏 smug,mischief,sly,flirty,knowing,cheeky
+😼 smug,sly,mischievous,devious
+
+# Emotions: sarcasm and irony
+🙃 sarcastic,ironic,sure,yeah right,passive aggressive
+🙄 whatever,annoyed,eye roll,seriously,sarcastic
+😶 speechless,no comment,silent,stunned
+
+# Emotions: playfulness
+😜 playful,joking,silly,teasing,cheeky
+🤪 crazy,silly,goofy,wacky,zany,wild
+😝 playful,silly,gross,bleh
+😛 playful,cheeky,teasing
+
+# Emotions: sleepiness and tiredness
+😴 sleeping,tired,zzz,exhausted,nap
+😪 sleepy,tired,drowsy,goodnight
+🫩 tired,exhausted,weary,drained,bags under eyes
+
+# Emotions: sickness and pain
+🤒 sick,ill,fever,unwell
+🤕 hurt,injured,ouch,headache,pain
+🤧 sick,sneeze,cold,flu
+🥵 hot,sweating,overheated,burning up
+🥶 freezing,cold,shivering,frost
+🥴 drunk,tipsy,woozy,dizzy,intoxicated
+
+# Common symbols
+✅ check,done,complete,approved,yes,correct,pass,ok
+❌ no,wrong,delete,remove,cancel,reject,fail,x
+⚠️ warning,caution,alert,attention,danger
+❤️ love,heart,like,favorite
+💔 broken heart,sad,heartbreak
+💯 perfect,100,score,hundred,fully
+🔥 hot,fire,awesome,lit,trending,flame
+✨ sparkle,magic,new,shiny,star
+⭐ star,favorite,rating
+💪 strong,muscle,power,flex,strength,workout
+🚀 launch,ship,deploy,fast,rocket,release,go
+💡 idea,lightbulb,insight,tip
+🎯 target,goal,bullseye,exact,precise
+🏆 trophy,winner,champion,award,first place
+🎉 party,celebrate,congrats,yay,hooray,ship,tada
+🎊 confetti,celebrate,party
+
+# Communication
+👋 hi,hello,hey,wave,bye,goodbye
+👀 look,see,eyes,watching,peek
+💬 comment,message,chat,speech,talk
+📝 note,write,memo,document,edit
+📌 pin,important,save,bookmark
+
+# Status/Work
+🔒 lock,secure,private,encrypted
+🔓 unlock,open,public
+⏳ waiting,loading,hourglass,pending
+⏰ time,alarm,clock,deadline
+📅 calendar,date,schedule,event
+🔗 link,url,chain,connect
+📊 chart,graph,data,stats,analytics
+🐛 bug,issue,defect,error
+🔧 fix,tool,wrench,repair,configure
+📦 package,box,delivery,ship
+🗑️ delete,trash,remove,bin,garbage
+
+# Nature/Weather
+☀️ sun,sunny,weather,bright
+🌙 moon,night,crescent
+🌧️ rain,weather,rainy
+❄️ snow,cold,winter,ice,freeze
+🌈 rainbow,colorful,pride
+
+# Hands/Gestures
+🤞 fingers crossed,hope,luck,wish
+✌️ peace,victory,v
+🫶 heart hands,love,care
+🫡 salute,respect,sir
+🤷 shrug,idk,dunno,whatever,who knows
+🤦 facepalm,smh,disappointed,doh
